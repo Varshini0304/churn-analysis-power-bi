@@ -1,2 +1,2 @@
 # churn-analysis-power-bi
-This is an analysis on bank customer churn prediction using Power BI and I am currently working on a research paper of this project. 
+This project aids in the forecast of the bank customer churn attrition rate, a power BI dashboard is created, and the accuracy is verified using Random Forest prediction method.
